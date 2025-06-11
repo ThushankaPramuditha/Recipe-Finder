@@ -5,7 +5,7 @@ A dynamic and responsive React web application that allows users to search for r
 
 ## 🚀 Live Demo
 
-[View Live Application](https://your-deployed-app-url.com)
+[View Live Application](recipe-finder-ojaiztxqy-thushankapramudithas-projects.vercel.app)
 
 ## 📋 Features Implemented
 
@@ -183,8 +183,8 @@ git push -u origin main
 ## 🔗 Live Application
 
 After deployment, update this section with your live application URL:
-- **Production URL**: [Your deployed app URL here]
-- **Staging URL**: [Your staging URL if applicable]
+- **Production URL**: recipe-finder-ojaiztxqy-thushankapramudithas-projects.vercel.app
+
 
 ## 📧 Contact
 
