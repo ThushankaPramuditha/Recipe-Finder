@@ -162,7 +162,7 @@ git add .
 git commit -m "Initial commit: Recipe finder application"
 
 # Add remote origin (replace with your repository URL)
-git remote add origin https://github.com/yourusername/tasty-recipe-finder.git
+git remote add origin https://github.com/ThushankaPramuditha/Recipe-Finder.git
 
 # Push to main branch
 git push -u origin main
@@ -179,18 +179,6 @@ git push -u origin main
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Live Application
 
